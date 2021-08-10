@@ -1,5 +1,5 @@
 published at https://btp5.ccbp.tech
-published at https://yaswanthecom.ccbp.tech
+and https://yaswanthecom.ccbp.tech
 
 In this practice let's build a **Nxt Trendz - Specific Product Details** by applying the concepts we have learned till now.
 
