@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/nxtTrends/static/css/main.955bd9ca.chunk.css",
+    "main.js": "/github.io/nxtTrends/static/js/main.c16bf10e.chunk.js",
+    "main.js.map": "/github.io/nxtTrends/static/js/main.c16bf10e.chunk.js.map",
+    "runtime-main.js": "/github.io/nxtTrends/static/js/runtime-main.6966c72e.js",
+    "runtime-main.js.map": "/github.io/nxtTrends/static/js/runtime-main.6966c72e.js.map",
+    "static/js/2.79361c77.chunk.js": "/github.io/nxtTrends/static/js/2.79361c77.chunk.js",
+    "static/js/2.79361c77.chunk.js.map": "/github.io/nxtTrends/static/js/2.79361c77.chunk.js.map",
+    "index.html": "/github.io/nxtTrends/index.html",
+    "static/css/main.955bd9ca.chunk.css.map": "/github.io/nxtTrends/static/css/main.955bd9ca.chunk.css.map",
+    "static/js/2.79361c77.chunk.js.LICENSE.txt": "/github.io/nxtTrends/static/js/2.79361c77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6966c72e.js",
+    "static/js/2.79361c77.chunk.js",
+    "static/css/main.955bd9ca.chunk.css",
+    "static/js/main.c16bf10e.chunk.js"
+  ]
+}
