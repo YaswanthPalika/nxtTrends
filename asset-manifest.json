@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nxtTrends/static/css/main.955bd9ca.chunk.css",
-    "main.js": "/nxtTrends/static/js/main.55ed7bda.chunk.js",
-    "main.js.map": "/nxtTrends/static/js/main.55ed7bda.chunk.js.map",
+    "main.js": "/nxtTrends/static/js/main.c16bf10e.chunk.js",
+    "main.js.map": "/nxtTrends/static/js/main.c16bf10e.chunk.js.map",
     "runtime-main.js": "/nxtTrends/static/js/runtime-main.376fab14.js",
     "runtime-main.js.map": "/nxtTrends/static/js/runtime-main.376fab14.js.map",
-    "static/js/2.26877cdf.chunk.js": "/nxtTrends/static/js/2.26877cdf.chunk.js",
-    "static/js/2.26877cdf.chunk.js.map": "/nxtTrends/static/js/2.26877cdf.chunk.js.map",
+    "static/js/2.79361c77.chunk.js": "/nxtTrends/static/js/2.79361c77.chunk.js",
+    "static/js/2.79361c77.chunk.js.map": "/nxtTrends/static/js/2.79361c77.chunk.js.map",
     "index.html": "/nxtTrends/index.html",
     "static/css/main.955bd9ca.chunk.css.map": "/nxtTrends/static/css/main.955bd9ca.chunk.css.map",
-    "static/js/2.26877cdf.chunk.js.LICENSE.txt": "/nxtTrends/static/js/2.26877cdf.chunk.js.LICENSE.txt"
+    "static/js/2.79361c77.chunk.js.LICENSE.txt": "/nxtTrends/static/js/2.79361c77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.376fab14.js",
-    "static/js/2.26877cdf.chunk.js",
+    "static/js/2.79361c77.chunk.js",
     "static/css/main.955bd9ca.chunk.css",
-    "static/js/main.55ed7bda.chunk.js"
+    "static/js/main.c16bf10e.chunk.js"
   ]
 }
