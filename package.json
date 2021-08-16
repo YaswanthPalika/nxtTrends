@@ -1,5 +1,5 @@
 {
-  "homepage": "https://YaswanthPalika/github.io/nxtTrends",
+  "homepage": "https://yaswanthpalika/github.io/nxtTrends",
   "name": "nxt-trendz-specific-product-details",
   "private": true,
   "version": "1.0.0",
@@ -25,6 +25,7 @@
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-prettier": "3.3.1",
+    "gh-pages": "3.2.3",
     "husky": "4.3.8",
     "lint-staged": "10.5.4",
     "msw": "0.29.0",
@@ -40,7 +41,7 @@
     "lint:fix": "eslint --fix src/",
     "format": "prettier --write \"./src\"",
     "run-all": "npm-run-all --parallel test lint:fix",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "lint-staged": {
