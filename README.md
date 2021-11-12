@@ -1,7 +1,6 @@
-published at https://btp5.ccbp.tech
-and https://yaswanthecom.ccbp.tech
+https://yaswanthpecom.ccbp.tech
 
-In this practice let's build a **Nxt Trendz - Specific Product Details** by applying the concepts we have learned till now.
+I have built a **Nxt Trendz e-commerce website** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
 
