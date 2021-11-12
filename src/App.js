@@ -24,7 +24,7 @@ class App extends Component {
   }
 
   removeCartItem = id => {
-    const {cartList} = this.state
+   /* const {cartList} = this.state
     console.log(cartList)
     let i = 0
     let x
@@ -39,7 +39,7 @@ class App extends Component {
       i += 1
     }
     delete cartList[x]
-    //  this.setState({cartList: [cartList]})
+    //  this.setState({cartList: [cartList]}) */
   }
 
   render() {
