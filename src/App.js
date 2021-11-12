@@ -17,8 +17,7 @@ class App extends Component {
     cartList: [],
   }
 
-  //   TODO: Add your code for remove all cart items, increment cart item quantity, decrement cart item quantity, remove cart item
-
+ 
   addCartItem = product => {
     this.setState(prevState => ({cartList: [...prevState.cartList, product]}))
     //   TODO: Update the code here to implement addCartItem
