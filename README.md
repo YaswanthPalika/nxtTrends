@@ -1,4 +1,8 @@
 https://yaswanthpecom.ccbp.tech
+**note:**   username1 : raja
+            password1 : raja@2021
+            username2 : rahul
+            password2 : rahul@2021           
 
 I have built a **Nxt Trendz e-commerce website** by applying the concepts we have learned till now.
 
